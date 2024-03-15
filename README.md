@@ -1,16 +1,16 @@
 # Data Science Bootcamp Project 4: Machine Learning
 Presentations will be: March 27th 7:45-8
 # Group Members
-•	Raghen
-•	Brian N
-•	Allison
-•	Will
+- Raghen
+- Brian N
+- Allison
+- Will
 # Problem to be solved?
 Discover which markers/indicators can help accurately diagnose mental illness
-Bipolar - type 1
-Bipolar - type 2
-Depression
-Normal
+- Bipolar - type 1
+- Bipolar - type 2
+- Depression
+- Normal( no disorder)
 Aid the process of diagnosing patients
 # What data set are we planning to use?
 mental_disorders_csv from Kaggle
